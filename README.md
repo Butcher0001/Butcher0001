@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Butcher0001
-- 👀 I’m interested in Full stack web developer      
+- 👋 Hi, I’m @Butcher0001 ( Bibek Mallick
+- 👀 I’m interested in Software Testing   
 - 🌱 I’m currently learning b.tech(cse)  
 - 📫 How to reach me call at - 9064733431 
 
