@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Butcher0001 ( Bibek Mallick
+- 👋 Hi, I’m @Butcher0001 ( Bibek Mallick )
 - 👀 I’m interested in Software Testing   
 - 🌱 I’m currently learning b.tech(cse)  
 - 📫 How to reach me call at - 9064733431 
